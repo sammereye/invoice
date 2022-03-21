@@ -16,7 +16,7 @@
       <div class="p-1 bg-[#676968] rounded-full mr-3"></div>
       <div>Draft</div>
     </div>
-    <img class="mx-auto" src="/assets/icon-arrow-right.svg" />
+    <img class="mx-auto" src="@/assets/icon-arrow-right.svg" />
   </div>
 </template>
 
