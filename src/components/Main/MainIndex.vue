@@ -10,7 +10,7 @@
 <script>
   import InvoiceList from './MainInvoiceList.vue';
   import InvoiceHeader from './MainInvoiceHeader.vue';
-  import data from '../../assets/data.json';
+  import data from '@/assets/data.json';
 
   export default {
     name: 'Main',
